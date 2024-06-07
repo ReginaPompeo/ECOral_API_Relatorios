@@ -1,0 +1,6 @@
+@ECOral___Relatorios_HostAddress = http://localhost:5083
+
+GET {{ECOral___Relatorios_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

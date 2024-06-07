@@ -1,0 +1,11 @@
+DROP TABLE Relatorio CASCADE CONSTRAINTS;
+SELECT * FROM Relatorio;
+
+CREATE TABLE Relatorio (
+    Id NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    Fator VARCHAR2(50),
+    Meses VARCHAR2(20),
+    Ano NUMBER,
+    Quantidade NUMBER,
+    Und_Medida VARCHAR2(20)
+);
