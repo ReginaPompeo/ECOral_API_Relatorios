@@ -1,6 +1,6 @@
 # ECOral_API_Relatorios
 
-API desenvolvida em C# para o projeto ECOral, onde é voltada para a geração de relatórios.
+A ideia de um aplicativo para monitorar a saúde dos ecossistemas aquáticos é inovadora e pode ser uma ferramenta valiosa para a conservação ambiental. No entanto, é importante considerar que a quebra de corais, mesmo que com a intenção de regeneração, pode ter impactos negativos significativos. Estudos indicam que a atividade antropogênica é a principal causa de degradação dos recifes de corais. Portanto, práticas sustentáveis e não invasivas são essenciais para a preservação dos recifes de corais, que são vitais para a biodiversidade marinha e para a economia das comunidades costeiras.
 
 ## 1° Passo - No Banco de Dados SQL Developer
 
