@@ -95,3 +95,11 @@ Também temos um POST único
 
 ## Fim
 Está foi a nossa aplicação em C# usando AspNet e Swagger, espero que tenha gostado! ;)
+
+## RM's
+
+JHONN BRANDON CABRERA TACACHIRI - RM97305
+
+LEONARDO PAGANINI - RM96562  
+
+REGINA CÉLIA POMPEO BATISTA ALVES - RM97032
