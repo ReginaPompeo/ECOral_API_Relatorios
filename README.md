@@ -97,7 +97,7 @@ Também temos um POST único
 Está foi a nossa aplicação em C# usando AspNet e Swagger, espero que tenha gostado! ;)
 
 ## Vídeo Pitch 
-https://youtu.be/LThNNNmVYJk?si=JA80S1EZbj8pG81I
+[https://youtu.be/LThNNNmVYJk?si=JA80S1EZbj8pG81I](https://www.youtube.com/watch?v=hcEdHt2zjhM)
 
 ## RM's
 
