@@ -56,7 +56,7 @@ Antes de tudo, vamos confirmar que não há nenhum dado no nosso banco, rodanod 
 
 ![image](https://github.com/ReginaPompeo/ECOral_API_Relatorios/assets/111822109/98d2b49f-f45a-4054-8d2c-49fc07803583)
 
-Depois da verificação que não há nenhum código no banco, nó vamos rodar o nosso API Relatoo Import. Assim todos os dados daquela planilha serão isneridos no banco.
+Depois da verificação que não há nenhum código no banco, nó vamos rodar o nosso API Relatoo Import. Assim todos os dados daquela planilha serão inseridos no banco.
 
 ![image](https://github.com/ReginaPompeo/ECOral_API_Relatorios/assets/111822109/39060baa-f891-4d4a-91e5-01ea4586eaac)
 
